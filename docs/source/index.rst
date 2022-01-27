@@ -19,5 +19,7 @@ Contents
 
    usage
    api
+   qsdliu
+   diusdjd
    
 Lumache has its documentation hosted on Read the Docs.
